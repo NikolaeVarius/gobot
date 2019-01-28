@@ -1,6 +1,6 @@
 # Mavlink
 
-For information on the MAVlink communication protocol click [here](http://qgroundcontrol.org/mavlink/start).
+For information on the MAVlink communication protocol click [here](http://ardupilot.org/dev/docs/mavlink-basics.html).
 
 This package supports Mavlink over serial (such as a
 [SiK modem](http://ardupilot.org/copter/docs/common-sik-telemetry-radio.html))
