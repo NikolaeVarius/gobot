@@ -2,7 +2,7 @@ package mavlink
 
 //
 // MAVLink comm protocol built from common.xml
-// http://pixhawk.ethz.ch/software/mavlink
+// https://mavlink.io/en/
 //
 
 const (
